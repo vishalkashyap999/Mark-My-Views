@@ -1,0 +1,12 @@
+.footer {
+    font-family: "Montserrat";
+}
+
+.copyright {
+    /* height: 50px; */
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color: #8f8f8f;
+    background-color: #fcf5f5;
+}
